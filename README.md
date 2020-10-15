@@ -8,7 +8,8 @@
 - 📫 How to reach me: ... <a href="http://abdosaed.ml" target="_blank">**abdosaed.ml**</a>
 - ⚡ Fun fact: **After three days without programming, life becomes meaningless.**
 
-![gif](https://user-images.githubusercontent.com/33700292/90038124-50c55880-dcc5-11ea-895d-70f15926c115.gif)
+  <img src="https://user-images.githubusercontent.com/33700292/90038124-50c55880-dcc5-11ea-895d-70f15926c115.gif" alt="gif" width="350" />
+
 
 ### Languages and Tools:
 
