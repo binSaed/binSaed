@@ -22,7 +22,7 @@
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="JS" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/>
   
- <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="48"/>
  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="22" height="22"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="22" height="22"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="58"/>
+ <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="58""/>
