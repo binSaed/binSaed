@@ -2,10 +2,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors" alt="Visitors"/></p>
 
-- 🔭 I’m currently working on ... **private projects😎**
-- 🌱 I’m currently learning ... **NodeJS**
-- 💬 Ask me about ... **[Android, Flutter, Java, Dart]**
-- 📫 How to reach me: ... <a href="http://abdosaed.ml" target="_blank">**abdosaed.ml**</a>
+- 🔭 I’m currently working on ... **personal projects**
+- 🌱 I’m currently learning ... **backend**
+- 💬 Ask me about ... **[Java, Dart, Android, Flutter]**
+- 📫 How to reach me: ... <a href="http://abdosaed.ml" target="_blank">**abdosaed.ml**</a> ,<a href="mailto:me@abdosaed.ml">**me@abdosaed.ml**</a>
 - ⚡ Fun fact: **After three days without programming, life becomes meaningless.**
 
   <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
