@@ -9,20 +9,20 @@
 - ⚡ Fun fact: **After three days without programming, life becomes meaningless.**
 
   <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
+ 
 
-
+                                                                                              
 ### Languages and Tools:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/> 
-    <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>  
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="JS" width="22" height="22"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/>
-  
- <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="48"/>
- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="22" height="22"/>
- <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="58"/>
- <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="58""/>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="48"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="22" height="22"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="58"/></code>
+<code> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="58"/></code>
