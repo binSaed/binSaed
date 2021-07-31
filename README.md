@@ -3,10 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors&style=flat-square" alt="Visitors"/></p>
 
 - 🔭 I’m currently working on ... **personal projects**
-- 🌱 I’m currently learning ... **backend**
-- 💬 Ask me about ... **[Java, Dart, Android, Flutter]**
+- 💬 Ask me about ... **[Java, Dart, JS, Android, Flutter, NodeJS]**
 - 📫 How to reach me: ... <a href="http://abdosaed.ml" target="_blank">**abdosaed.ml**</a> ,<a href="mailto:me@abdosaed.ml">**me@abdosaed.ml**</a>
 - ⚡ Fun fact: **After three days without programming, life becomes meaningless.**
+
+# _Look for a remote job:_ <a href="https://www.linkedin.com/in/abdo-saed/" target="_blank">**Linkedin**</a> 
+
 
   <img src="https://media2.giphy.com/media/H4ETAwCJs7S9mdrFFW/giphy.gif" alt="gif" width="450" />
  
