@@ -14,7 +14,7 @@
 <div style="content: ""; clear: both;display: table;">
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="gif" width="122" />
   <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="gif" width="106" />  
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="gif" width="88" />
+  <img src="https://github.githubassets.com/images/mona-loading.gif" alt="gif" width="88" />
 </div>
 
  
