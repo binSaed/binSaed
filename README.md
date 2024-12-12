@@ -21,6 +21,7 @@
                                                                                               
 ### Languages and Tools:
 
+<code><img src="https://api.odjust.com/tracking" alt="java" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></code>
