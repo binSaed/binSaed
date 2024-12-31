@@ -33,3 +33,5 @@
 <code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="22" height="22"/></code>
 <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="58"/></code>
 <code> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="58"/></code>
+<img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" alt="Wave Emoji"  width="44px" height="44px" />
+
