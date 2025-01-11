@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://github.com/user-attachments/assets/fabe18d0-4e67-458e-8a23-c8b5ff7204f0" alt="Wave Emoji"  width="42px" height="42px" />, I'm <br><b>Someone</b></h1>
+<h1 align="center">Hi there<img src="https://github.com/user-attachments/assets/bc33a857-01bd-456f-9641-8ec49dc6075d" alt="Wave Emoji"  width="42px" height="42px" />, I'm <br><b>Someone</b></h1>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors&style=flat-square" alt="Visitors"/></p>
