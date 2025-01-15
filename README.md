@@ -1,5 +1,6 @@
 <h1 align="center">Hi there<img src="https://github.com/user-attachments/assets/bc33a857-01bd-456f-9641-8ec49dc6075d" alt="Wave Emoji"  width="42px" height="42px" />, I'm <br><b>Someone</b></h1>
 
+<!--  <img src="https://aktive.kerolloz.dev/egypt/binSaed?label=&color=000&style=for-the-badge&rnkSuffix=%20In%20Egypt" alt="Visitors"/> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors&style=flat-square" alt="Visitors"/></p>
 
@@ -9,13 +10,6 @@
 - ⚡ Fun fact: *Nothing fully secure 🔓.*
 
 <!-- # _Look for a remote job:_ <a href="https://www.linkedin.com/in/abdo-saed/" target="_blank">**Linkedin**</a>  -->
-
-
-<!-- <div style="content: ""; clear: both;display: table;">
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="gif" width="122" />
-  <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="gif" width="106" />  
-  <img src="https://github.githubassets.com/images/mona-loading.gif" alt="gif" width="88" />
-</div> -->
 
 
                                                                                               
