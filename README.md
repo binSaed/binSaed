@@ -9,7 +9,7 @@
 - 📫 How to reach me: ... <a href="https://bnsaed.com" target="_blank">**bnsaed.com**</a> ,<a href="mailto:git@bnsaed.com">**git@bnsaed.com**</a>
 - ⚡ Fun fact: *Nothing fully secure 🔓.*
 
-<!-- # _Look for a remote job:_ <a href="https://www.linkedin.com/in/abdo-saed/" target="_blank">**Linkedin**</a>  -->
+<!-- # _Look for a remote job:_ <a href="https://www.linkedin.com/in/binsaed/" target="_blank">**Linkedin**</a>  -->
 
 
                                                                                               
