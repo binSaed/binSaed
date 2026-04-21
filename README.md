@@ -1,31 +1,61 @@
-<h1 align="center">Hi there<img src="https://github.com/user-attachments/assets/bc33a857-01bd-456f-9641-8ec49dc6075d" alt="Wave Emoji"  width="42px" height="42px" />, I'm <br><b>Someone</b></h1>
+<h1 align="center">Abdelrahman Saed</h1>
+<h3 align="center">Senior Mobile Engineer · Cairo / Remote</h3>
 
-<!--  <img src="https://aktive.kerolloz.dev/egypt/binSaed?label=&color=000&style=for-the-badge&rnkSuffix=%20In%20Egypt" alt="Visitors"/> -->
+<p align="center">
+  <a href="https://bnsaed.com"><img src="https://img.shields.io/badge/Website-bnsaed.com-004f9f?style=flat&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/binsaed/"><img src="https://img.shields.io/badge/LinkedIn-binsaed-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://stackoverflow.com/users/11001850/abdelrahman-saed"><img src="https://img.shields.io/badge/Stack%20Overflow-Abdelrahman%20Saed-F48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="mailto:me@bnsaed.com"><img src="https://img.shields.io/badge/Email-me%40bnsaed.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdOoSaed&label=Visitors&style=flat-square" alt="Visitors"/></p>
+---
 
-<!-- - 🌱 I’m currently learning <code><img height="20" src="https://golang.org/lib/godoc/images/go-logo-blue.svg"></code> -->
-- 💬 Ask me about ... **[Java, Dart, JS, Android, Flutter, NodeJS]**
-- 📫 How to reach me: ... <a href="https://bnsaed.com" target="_blank">**bnsaed.com**</a> ,<a href="mailto:git@bnsaed.com">**git@bnsaed.com**</a>
-- ⚡ Fun fact: *Nothing fully secure 🔓.*
+## About
 
-<!-- # _Look for a remote job:_ <a href="https://www.linkedin.com/in/binsaed/" target="_blank">**Linkedin**</a>  -->
+Senior Mobile Engineer with **6+ years** shipping production mobile products at scale. Deep expertise in performance optimization, offline-first architecture, and modular codebases serving **5M+ users**. achieving **99.9% crash-free rates**, Open-source contributor with **315+ GitHub stars** and packages adopted by **5,000+ developers**.
 
+## Currently
 
-                                                                                              
-### Languages and Tools:
+**Lead Mobile Engineer** @ <a href="https://istoria.go.link/aFdr1">iStoria</a> — Riyadh, Saudi Arabia (Hybrid)
 
-<code><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="48"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="22" height="22"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="58"/></code>
-<code> <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" alt="redis" width="58"/></code>
-<img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" alt="Wave Emoji"  width="44px" height="44px" />
+Leading a 4-engineer mobile squad. Own architecture decisions, hiring bar, release governance, and delivery timelines across iOS and Android. Reduced release cycle from 4 weeks to 1 week via trunk-based development, feature flags, and automated CI/CD.
 
+## Impact Highlights
+
+- **5M+ users** served in production Flutter apps
+- **99.9% crash-free rate** via crash budgets and CI quality gates
+- **Sole engineer for 1.5M users** during a team transition
+
+## Featured Open Source
+
+<p>
+  <a href="https://pub.dev/packages/flutter_cached_pdfview"><b>flutter_cached_pdfview</b></a>
+  <img src="https://img.shields.io/pub/v/flutter_cached_pdfview?color=004f9f&label=pub" alt="pub version"/>
+  <img src="https://img.shields.io/pub/likes/flutter_cached_pdfview?color=e91e63" alt="pub likes"/>
+  <br/>
+  <sub>Flutter PDF plugin adopted by <b>5,000+ developers</b> — automated CI/CD</sub>
+</p>
+
+<p>
+  <a href="https://pub.dev/packages/flutter_zoom_checker"><b>flutter_zoom_checker</b></a>
+  <img src="https://img.shields.io/pub/v/flutter_zoom_checker?color=004f9f&label=pub" alt="pub version"/>
+  <img src="https://img.shields.io/pub/likes/flutter_zoom_checker?color=e91e63" alt="pub likes"/>
+  <br/>
+  <sub>Display zoom detection for iOS &amp; Android</sub>
+</p>
+
+<p>
+  <a href="https://pub.dev/packages/clipboard_plus"><b>clipboard_plus</b></a>
+  <img src="https://img.shields.io/pub/v/clipboard_plus?color=004f9f&label=pub" alt="pub version"/>
+  <img src="https://img.shields.io/pub/likes/clipboard_plus?color=e91e63" alt="pub likes"/>
+  <br/>
+  <sub>Enhanced clipboard with iOS UIPasteboard support</sub>
+</p>
+
+## Tech Stack
+
+**Mobile:** Flutter · Dart · Android · iOS
+**Architecture:** Clean Architecture · MVVM · BLoC · SOLID · Dependency Injection
+**Data:** PowerSync · Drift · GraphQL · REST
+**DevOps & Quality:** GitHub Actions · Codemagic · Firebase · Sentry · Integration Testing
+**Leadership:** Architecture Ownership · RFCs · Release Governance · Code Review · Hiring · Mentoring
