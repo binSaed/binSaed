@@ -12,7 +12,7 @@
 
 ## About
 
-Senior Mobile Engineer with **6+ years** shipping production mobile products at scale. Deep expertise in performance optimization, offline-first architecture, and modular codebases serving **5M+ users**. achieving **99.9% crash-free rates**, Open-source contributor with **315+ GitHub stars** and packages adopted by **5,000+ developers**.
+Senior Mobile Engineer with **7 years** shipping production mobile products at scale. Deep expertise in performance optimization, offline-first architecture, and modular codebases serving **5M+ users**. achieving **99.9% crash-free rates**, Open-source contributor with **315+ GitHub stars** and packages adopted by **5,000+ developers**.
 
 ## Currently
 
