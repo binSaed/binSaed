@@ -59,3 +59,16 @@ Leading a 4-engineer mobile squad. Own architecture decisions, hiring bar, relea
 **Data:** PowerSync · Drift · GraphQL · REST
 **DevOps & Quality:** GitHub Actions · Codemagic · Firebase · Sentry · Integration Testing
 **Leadership:** Architecture Ownership · RFCs · Release Governance · Code Review · Hiring · Mentoring
+
+## Writing & Case Studies
+
+Deep dives on [bnsaed.com](https://bnsaed.com/):
+
+- [From Four-Week Releases to Weekly](https://bnsaed.com/case-studies/release-engineering/) — Flutter release engineering across 350+ releases
+- [Offline-First Flutter at 5M Learners](https://bnsaed.com/case-studies/offline-first-sync/) — Drift + PowerSync + an offline write queue
+- [All articles →](https://bnsaed.com/articles/)
+
+## Open to Work
+
+Senior / Lead Mobile Engineer roles — full-time, fractional, or contract. Remote worldwide or hybrid across the Gulf & Egypt, on 2 weeks' notice.
+**[How we can work together →](https://bnsaed.com/hire/)**
